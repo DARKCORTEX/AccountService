@@ -1,17 +1,22 @@
 ﻿using Microsoft.Data.SqlClient;
-using System;
-using System.Linq.Expressions;
-using System.Text.Json.Nodes;
-using System.Threading.Tasks;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using System;
 using System.Text.Encodings.Web;
-using System.Runtime.CompilerServices;
+
 
 namespace AccountService
 {
     class Program
     {
+        public class Users
+        {
+            public int? UserID { get; set; }
+            public string? UserName {get; set; }
+            public string? UserPassword {get; set; }
+        }
         static async Task Main(string[] args)
         {
             var program = new Program();
@@ -40,13 +45,23 @@ namespace AccountService
                 await using var reader = await command.ExecuteReaderAsync();
 
                 string jsonString = "";
-                while(await reader.ReadAsync())
+                if(await reader.ReadAsync())
                 {
-                    jsonString = program.SqlDataReaderToJson(reader);
+                    jsonString = reader.GetString(0);
                 }
                 Console.WriteLine(jsonString);
-
-                
+ 
+                List<Users>? users = JsonSerializer.Deserialize<List<Users>>(jsonString);
+                if(users != null)
+                {
+                    foreach (var user in users)
+                    {
+                        Console.WriteLine($"UserID: {user.UserID}, UserName: {user.UserName}, UserPassword: {user.UserPassword}");
+                    }
+                }else
+                {
+                    Console.WriteLine("No users found or deserialization failed.");
+                }
             }
             catch (SqlException e) when (e.Number == 1)
             {
@@ -59,19 +74,6 @@ namespace AccountService
 
             Console.WriteLine("\nDone. Press Enter.");
             Console.ReadLine();
-        }
-        public string SqlDataReaderToJson(SqlDataReader queryResult)
-        {
-            string jsonResult = "";
-
-            var options = new JsonSerializerOptions { WriteIndented = true, Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping };
-            for (int i = 0; i < queryResult.FieldCount; i++)
-            {
-                jsonResult = JsonSerializer.Serialize(queryResult.GetString(i), options).ToString();
-            }
-            jsonResult = jsonResult.Replace(@"\", "");
-            
-            return jsonResult;
         }
     }
 }
