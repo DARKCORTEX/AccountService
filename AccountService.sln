@@ -2,7 +2,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService", "AccountService\AccountService.csproj", "{1F0E27B3-FBC0-EF27-E0A6-A10E2C626281}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccountService", "AccountService", "{83A3FF5F-A694-8F5D-75DD-833784B0AE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backend", "AccountService\backend\backend.csproj", "{A311DB14-0E11-A227-A815-79BF146C29DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +12,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1F0E27B3-FBC0-EF27-E0A6-A10E2C626281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F0E27B3-FBC0-EF27-E0A6-A10E2C626281}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F0E27B3-FBC0-EF27-E0A6-A10E2C626281}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F0E27B3-FBC0-EF27-E0A6-A10E2C626281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A311DB14-0E11-A227-A815-79BF146C29DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A311DB14-0E11-A227-A815-79BF146C29DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A311DB14-0E11-A227-A815-79BF146C29DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A311DB14-0E11-A227-A815-79BF146C29DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A311DB14-0E11-A227-A815-79BF146C29DD} = {83A3FF5F-A694-8F5D-75DD-833784B0AE3C}
+	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3E7D18DC-A17B-49EE-81FF-399CF0B592AE}
+		SolutionGuid = {2304474B-6FB1-4BF2-9C72-F304B6A447D4}
 	EndGlobalSection
 EndGlobal

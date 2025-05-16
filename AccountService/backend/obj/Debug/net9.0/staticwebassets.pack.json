@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css",
+      "PackagePath": "staticwebassets\\css\\main.e6c13ad2.css"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css.map",
+      "PackagePath": "staticwebassets\\css\\main.e6c13ad2.css.map"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js",
+      "PackagePath": "staticwebassets\\js\\453.8ab44547.chunk.js"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js.map",
+      "PackagePath": "staticwebassets\\js\\453.8ab44547.chunk.js.map"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js",
+      "PackagePath": "staticwebassets\\js\\main.6a445442.js"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\js\\main.6a445442.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.map",
+      "PackagePath": "staticwebassets\\js\\main.6a445442.js.map"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

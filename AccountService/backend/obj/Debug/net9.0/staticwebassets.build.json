@@ -1,0 +1,4308 @@
+{
+  "Version": 1,
+  "Hash": "oShynAG6QfN+TBNiHl2Fl7cctAlbpEIz7+OgVELOScM=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-qb9jnomoaz.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "index#[.{fingerprint=qb9jnomoaz}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fuaev582i1",
+      "Integrity": "mR7rd9IzU6jOKjOpHUNBUIBEaISlO2l7Bxgjb62UsZU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\5rcg818d7h-7o90c48s1k.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/453.8ab44547.chunk#[.{fingerprint=7o90c48s1k}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ubb148rx0x",
+      "Integrity": "moNtoDcC7voOvzgHQA1XfWexI2bETG4d+8bSOpx7fnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\82ap3eqoaq-5eoga79v4x.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/main.6a445442#[.{fingerprint=5eoga79v4x}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x5v95p5dz0",
+      "Integrity": "+0A3U8Oh9hihPJmR6Mnsp2uqK49pZ4EYXWNskDGVj1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\8p510ahlje-lh4fym9zv8.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "asset-manifest#[.{fingerprint=lh4fym9zv8}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\asset-manifest.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xdorlmyz1s",
+      "Integrity": "NeG7ikG2BVYTnF48CPMJzEFc8EbWCvJ6mgqDD5fYWSY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\asset-manifest.json"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\98pnw6emjo-kmpxxtsv97.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/main.6a445442.js.LICENSE#[.{fingerprint=kmpxxtsv97}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.LICENSE.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "trqeqq84mz",
+      "Integrity": "9/5SjOJN+gyIf/USzW7RZuNIp2Hf+hiHi7mgIhps1+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\e6tjwschk4-1f2oqlqaa3.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "favicon#[.{fingerprint=1f2oqlqaa3}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "glsbb7dowp",
+      "Integrity": "hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\ii2fdwhbmp-wskqi1vz5h.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/main.6a445442.js#[.{fingerprint=wskqi1vz5h}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5qiccsin75",
+      "Integrity": "M7o3/9TWsb6luja0b5Q8eT074BdIqda63bEWXdivpaU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.map"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\jozyi3lgnh-sl60c43r8o.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "robots#[.{fingerprint=sl60c43r8o}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\robots.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "87lgtu7z8q",
+      "Integrity": "rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\robots.txt"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\mzk44gs7y4-02wjkw0b7l.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "css/main.e6c13ad2.css#[.{fingerprint=02wjkw0b7l}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vq5fvo15ar",
+      "Integrity": "KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css.map"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\owyr0b8s6q-4bysstsvp2.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "manifest#[.{fingerprint=4bysstsvp2}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\manifest.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "em7h5dc8ac",
+      "Integrity": "1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\q81p98ihge-zna908b2u0.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/453.8ab44547.chunk.js#[.{fingerprint=zna908b2u0}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x35h0h22l3",
+      "Integrity": "40cjI5LWY6v7Xq0DWk/aiscLiikKewaeTs/SIPu4VYE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js.map"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\wf8metammp-byrjvaenyp.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "css/main.e6c13ad2#[.{fingerprint=byrjvaenyp}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q3lbt9577v",
+      "Integrity": "aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\asset-manifest.json",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "asset-manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lh4fym9zv8",
+      "Integrity": "eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\asset-manifest.json"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "css/main.e6c13ad2#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "byrjvaenyp",
+      "Integrity": "Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.e6c13ad2.css"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css.map",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "css/main.e6c13ad2.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "02wjkw0b7l",
+      "Integrity": "CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.e6c13ad2.css.map"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\favicon.ico",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1f2oqlqaa3",
+      "Integrity": "PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\index.html",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qb9jnomoaz",
+      "Integrity": "ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/453.8ab44547.chunk#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7o90c48s1k",
+      "Integrity": "CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\453.8ab44547.chunk.js"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js.map",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/453.8ab44547.chunk.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zna908b2u0",
+      "Integrity": "wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\453.8ab44547.chunk.js.map"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/main.6a445442#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5eoga79v4x",
+      "Integrity": "ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.6a445442.js"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.LICENSE.txt",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/main.6a445442.js.LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kmpxxtsv97",
+      "Integrity": "/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.6a445442.js.LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.map",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "js/main.6a445442.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wskqi1vz5h",
+      "Integrity": "MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.6a445442.js.map"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\logo192.png",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "logo192#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xr54by9dn2",
+      "Integrity": "w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo192.png"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\logo512.png",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "logo512#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2377xp85ga",
+      "Integrity": "nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo512.png"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\manifest.json",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4bysstsvp2",
+      "Integrity": "ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\robots.txt",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "robots#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sl60c43r8o",
+      "Integrity": "kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\robots.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "asset-manifest.json",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\8p510ahlje-lh4fym9zv8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005181347150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NeG7ikG2BVYTnF48CPMJzEFc8EbWCvJ6mgqDD5fYWSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.json",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.json.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\8p510ahlje-lh4fym9zv8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NeG7ikG2BVYTnF48CPMJzEFc8EbWCvJ6mgqDD5fYWSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NeG7ikG2BVYTnF48CPMJzEFc8EbWCvJ6mgqDD5fYWSY="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.lh4fym9zv8.json",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\8p510ahlje-lh4fym9zv8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005181347150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NeG7ikG2BVYTnF48CPMJzEFc8EbWCvJ6mgqDD5fYWSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lh4fym9zv8"
+        },
+        {
+          "Name": "label",
+          "Value": "asset-manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.lh4fym9zv8.json",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lh4fym9zv8"
+        },
+        {
+          "Name": "label",
+          "Value": "asset-manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eY6l25NrQNcFtJAJY3V6Uf0kYhG1KetJISFBvz54agU="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.lh4fym9zv8.json.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\8p510ahlje-lh4fym9zv8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NeG7ikG2BVYTnF48CPMJzEFc8EbWCvJ6mgqDD5fYWSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lh4fym9zv8"
+        },
+        {
+          "Name": "label",
+          "Value": "asset-manifest.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NeG7ikG2BVYTnF48CPMJzEFc8EbWCvJ6mgqDD5fYWSY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.byrjvaenyp.css",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\wf8metammp-byrjvaenyp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003787878788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "byrjvaenyp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.e6c13ad2.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.byrjvaenyp.css",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "byrjvaenyp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.e6c13ad2.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.byrjvaenyp.css.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\wf8metammp-byrjvaenyp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "byrjvaenyp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.e6c13ad2.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\wf8metammp-byrjvaenyp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003787878788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5szASmdLzYU2e3mG86ut9Aj9ZdRR+CPM9bkyoLP7VY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css.02wjkw0b7l.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\mzk44gs7y4-02wjkw0b7l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002500000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02wjkw0b7l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.e6c13ad2.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css.02wjkw0b7l.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02wjkw0b7l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.e6c13ad2.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css.02wjkw0b7l.map.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\mzk44gs7y4-02wjkw0b7l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02wjkw0b7l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.e6c13ad2.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\wf8metammp-byrjvaenyp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aq/uJyVCb436pM21WWl3nUk24WdfC+U6pT9Ri6eP5xc="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\mzk44gs7y4-02wjkw0b7l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002500000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\css\\main.e6c13ad2.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CP2KE8v4rhprfXZ2jiwemMW2b3mAKnwPWvcAhqQhOwY="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.e6c13ad2.css.map.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\mzk44gs7y4-02wjkw0b7l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KQYfnvfs3cfxEGIqAarDVJhj1NuFbCXvk1sLdWSMXeo="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.1f2oqlqaa3.ico",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\e6tjwschk4-1f2oqlqaa3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000273897562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3650"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1f2oqlqaa3"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.1f2oqlqaa3.ico",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1f2oqlqaa3"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.1f2oqlqaa3.ico.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\e6tjwschk4-1f2oqlqaa3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1f2oqlqaa3"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\e6tjwschk4-1f2oqlqaa3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000273897562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3650"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\e6tjwschk4-1f2oqlqaa3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJz6th6R/BIbTppAEUDnvu3y4omXercB605rh9cbDB0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-qb9jnomoaz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002624671916"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mR7rd9IzU6jOKjOpHUNBUIBEaISlO2l7Bxgjb62UsZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-qb9jnomoaz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mR7rd9IzU6jOKjOpHUNBUIBEaISlO2l7Bxgjb62UsZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mR7rd9IzU6jOKjOpHUNBUIBEaISlO2l7Bxgjb62UsZU="
+        }
+      ]
+    },
+    {
+      "Route": "index.qb9jnomoaz.html",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-qb9jnomoaz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002624671916"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mR7rd9IzU6jOKjOpHUNBUIBEaISlO2l7Bxgjb62UsZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qb9jnomoaz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.qb9jnomoaz.html",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qb9jnomoaz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ChPue+QxmkK01lMCJMdjUO132Z6Y2yoy6euBEVAdRyQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.qb9jnomoaz.html.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-qb9jnomoaz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mR7rd9IzU6jOKjOpHUNBUIBEaISlO2l7Bxgjb62UsZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qb9jnomoaz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mR7rd9IzU6jOKjOpHUNBUIBEaISlO2l7Bxgjb62UsZU="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.7o90c48s1k.js",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\5rcg818d7h-7o90c48s1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000563063063"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1775"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"moNtoDcC7voOvzgHQA1XfWexI2bETG4d+8bSOpx7fnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7o90c48s1k"
+        },
+        {
+          "Name": "label",
+          "Value": "js/453.8ab44547.chunk.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.7o90c48s1k.js",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7o90c48s1k"
+        },
+        {
+          "Name": "label",
+          "Value": "js/453.8ab44547.chunk.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.7o90c48s1k.js.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\5rcg818d7h-7o90c48s1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"moNtoDcC7voOvzgHQA1XfWexI2bETG4d+8bSOpx7fnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7o90c48s1k"
+        },
+        {
+          "Name": "label",
+          "Value": "js/453.8ab44547.chunk.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-moNtoDcC7voOvzgHQA1XfWexI2bETG4d+8bSOpx7fnE="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\5rcg818d7h-7o90c48s1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000563063063"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1775"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"moNtoDcC7voOvzgHQA1XfWexI2bETG4d+8bSOpx7fnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CTOpYLTdAIrt/JsmzmQhk/QhLpTgo1ThDC6BCnhcdy8="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\5rcg818d7h-7o90c48s1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"moNtoDcC7voOvzgHQA1XfWexI2bETG4d+8bSOpx7fnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-moNtoDcC7voOvzgHQA1XfWexI2bETG4d+8bSOpx7fnE="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\q81p98ihge-zna908b2u0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000266311585"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3754"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"40cjI5LWY6v7Xq0DWk/aiscLiikKewaeTs/SIPu4VYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js.map.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\q81p98ihge-zna908b2u0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"40cjI5LWY6v7Xq0DWk/aiscLiikKewaeTs/SIPu4VYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-40cjI5LWY6v7Xq0DWk/aiscLiikKewaeTs/SIPu4VYE="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js.zna908b2u0.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\q81p98ihge-zna908b2u0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000266311585"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3754"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"40cjI5LWY6v7Xq0DWk/aiscLiikKewaeTs/SIPu4VYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zna908b2u0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/453.8ab44547.chunk.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js.zna908b2u0.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\453.8ab44547.chunk.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zna908b2u0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/453.8ab44547.chunk.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wREUtlLXEFnEOhAE4DknbRQW0J+nJDLmkOttDDEV3FA="
+        }
+      ]
+    },
+    {
+      "Route": "js/453.8ab44547.chunk.js.zna908b2u0.map.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\q81p98ihge-zna908b2u0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"40cjI5LWY6v7Xq0DWk/aiscLiikKewaeTs/SIPu4VYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zna908b2u0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/453.8ab44547.chunk.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-40cjI5LWY6v7Xq0DWk/aiscLiikKewaeTs/SIPu4VYE="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.5eoga79v4x.js",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\82ap3eqoaq-5eoga79v4x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016732481"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59763"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+0A3U8Oh9hihPJmR6Mnsp2uqK49pZ4EYXWNskDGVj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5eoga79v4x"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.5eoga79v4x.js",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5eoga79v4x"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.5eoga79v4x.js.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\82ap3eqoaq-5eoga79v4x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+0A3U8Oh9hihPJmR6Mnsp2uqK49pZ4EYXWNskDGVj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5eoga79v4x"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+0A3U8Oh9hihPJmR6Mnsp2uqK49pZ4EYXWNskDGVj1A="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\82ap3eqoaq-5eoga79v4x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016732481"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59763"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+0A3U8Oh9hihPJmR6Mnsp2uqK49pZ4EYXWNskDGVj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ffX/bVM6bZwpj3xWm9t8pB2ZccqnjCWbt6ATgY9yPdg="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\82ap3eqoaq-5eoga79v4x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+0A3U8Oh9hihPJmR6Mnsp2uqK49pZ4EYXWNskDGVj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+0A3U8Oh9hihPJmR6Mnsp2uqK49pZ4EYXWNskDGVj1A="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.LICENSE.kmpxxtsv97.txt",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\98pnw6emjo-kmpxxtsv97.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004524886878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/5SjOJN+gyIf/USzW7RZuNIp2Hf+hiHi7mgIhps1+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmpxxtsv97"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js.LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.LICENSE.kmpxxtsv97.txt",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmpxxtsv97"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js.LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.LICENSE.kmpxxtsv97.txt.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\98pnw6emjo-kmpxxtsv97.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/5SjOJN+gyIf/USzW7RZuNIp2Hf+hiHi7mgIhps1+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmpxxtsv97"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js.LICENSE.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/5SjOJN+gyIf/USzW7RZuNIp2Hf+hiHi7mgIhps1+U="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.LICENSE.txt",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\98pnw6emjo-kmpxxtsv97.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004524886878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/5SjOJN+gyIf/USzW7RZuNIp2Hf+hiHi7mgIhps1+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.LICENSE.txt",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/NROqiSZLk8jilDcird9iyBS5sgAbIrvMYf3ZM9VQG0="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.LICENSE.txt.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\98pnw6emjo-kmpxxtsv97.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/5SjOJN+gyIf/USzW7RZuNIp2Hf+hiHi7mgIhps1+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/5SjOJN+gyIf/USzW7RZuNIp2Hf+hiHi7mgIhps1+U="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\ii2fdwhbmp-wskqi1vz5h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000004752264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210425"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7o3/9TWsb6luja0b5Q8eT074BdIqda63bEWXdivpaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "883655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.map.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\ii2fdwhbmp-wskqi1vz5h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7o3/9TWsb6luja0b5Q8eT074BdIqda63bEWXdivpaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M7o3/9TWsb6luja0b5Q8eT074BdIqda63bEWXdivpaU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.wskqi1vz5h.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\ii2fdwhbmp-wskqi1vz5h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000004752264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210425"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7o3/9TWsb6luja0b5Q8eT074BdIqda63bEWXdivpaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wskqi1vz5h"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.wskqi1vz5h.map",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\js\\main.6a445442.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "883655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wskqi1vz5h"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MG7m/lC9FhCvTkn9UdZfUktRw3Qc0O7s3QWudEmD/zQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.6a445442.js.wskqi1vz5h.map.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\ii2fdwhbmp-wskqi1vz5h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7o3/9TWsb6luja0b5Q8eT074BdIqda63bEWXdivpaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wskqi1vz5h"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.6a445442.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M7o3/9TWsb6luja0b5Q8eT074BdIqda63bEWXdivpaU="
+        }
+      ]
+    },
+    {
+      "Route": "logo192.png",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\logo192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA="
+        }
+      ]
+    },
+    {
+      "Route": "logo192.xr54by9dn2.png",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\logo192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xr54by9dn2"
+        },
+        {
+          "Name": "label",
+          "Value": "logo192.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA="
+        }
+      ]
+    },
+    {
+      "Route": "logo512.2377xp85ga.png",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\logo512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2377xp85ga"
+        },
+        {
+          "Name": "label",
+          "Value": "logo512.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE="
+        }
+      ]
+    },
+    {
+      "Route": "logo512.png",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\logo512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.4bysstsvp2.json",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\owyr0b8s6q-4bysstsvp2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003906250000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4bysstsvp2"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.4bysstsvp2.json",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4bysstsvp2"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.4bysstsvp2.json.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\owyr0b8s6q-4bysstsvp2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4bysstsvp2"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\owyr0b8s6q-4bysstsvp2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003906250000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\owyr0b8s6q-4bysstsvp2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1nm3OGYJa5QQs7OdtWlEWrx6kr4+rABek41ii7xUtdM="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\jozyi3lgnh-sl60c43r8o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012658227848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl60c43r8o"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl60c43r8o"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\jozyi3lgnh-sl60c43r8o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl60c43r8o"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\jozyi3lgnh-sl60c43r8o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012658227848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt.gz",
+      "AssetFile": "D:\\DARKCORTEX\\Unity\\CriticalHitGames\\Proyect\\AccountService\\AccountService\\backend\\obj\\Debug\\net9.0\\compressed\\jozyi3lgnh-sl60c43r8o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rItxXqHBy8SoA7m5YJ+zMFphGBu56P15FtzfRd5pgpI="
+        }
+      ]
+    }
+  ]
+}
